@@ -1,6 +1,7 @@
-**Bibliography on Capsule Networks for NLP	**Will Merrill
+# Bibliography on Capsule Networks for NLP
+*By Will Merrill*
 
-Papers:
+## Papers
 
 
 
@@ -9,7 +10,7 @@ Papers:
 1.  [Identifying Aggression and Toxicity in Comments using Capsule Network](http://www.aclweb.org/anthology/W18-4412)
 1.  [Zero-shot User Intent Detection via Capsule Neural Networks](https://www.researchgate.net/publication/324606424_Zero-shot_User_Intent_Detection_via_Capsule_Neural_Networks)
 
-Other Materials:
+## Other Materials:
 
 
 
