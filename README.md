@@ -6,7 +6,7 @@ If you have any questions, would like to contribute further to this project or f
 
 # **[Overview of papers presented in class](https://github.com/brucepang/CPSC677-ANLP/blob/master/README.md)**
 
-- Capsule Networks for NLP by Will Merrill - [BIB](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/markdowns/capsule-networks.md)  [BLOG](https://viking-sudo-rm.github.io/nlp/2018/11/29/Capsule-Networks-for-NLP/) [SLIDES](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/slides/Capsule-Networks-for-NLP.pptx)
+- Capsule Networks for NLP by Will Merrill - [BIB](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/markdowns/capsule-networks.md)  [BLOG](http://lambdaviking.com/post/capsule-networks-for-nlp/) [SLIDES](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/slides/Capsule-Networks-for-NLP.pptx)
 - Commonsense Learning by Michihiro Yasunaga - [BIB](https://github.com/michiyasunaga/nlp_bibs/blob/master/commonsense.md) [SLIDES](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/slides/Commonsense.pptx)
 - Dialogue Systems by Suyi Li - [BIB](https://github.com/Suyi32/anlp_bib/blob/master/DialogueSystem.md) [SLIDES](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/slides/Dialogue-Systems.pptx)
 - Multilingual-Word-Embeddings by Davey Proctor - [BIB](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/markdowns/multilingual-embeddings.md)  [SLIDES](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/slides/Multilingual-Embeddings.pptx)
