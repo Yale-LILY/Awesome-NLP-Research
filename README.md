@@ -1,5 +1,7 @@
 # Awesome-NLP-Research (ANLP)
 
+(Update on 2020-01-10: we have also added the presentations from the Fall 2020 installment of the course. Check for them under "slides2020".)
+
 As part of the Fall 2018 course CPSC 677 "Advanced Natural Language Processing" at Yale, we developed, with the help of the students, a corpus of useful resources for NLP research. Bibliographies and Powerpoint Presentations for each topic are found below, in addition to several blog posts. We asked the students to also list relevant and prerequisite concepts for each topic, and these keywords are found [here](https://github.com/Yale-LILY/Awesome-NLP-Research/blob/master/keywords.txt). 
 
 If you have any questions, would like to contribute further to this project or feel we are missing an important citation, please contact Alex Fabbri at alexander[dot]fabbri[at]yale.[first three letters of education]
