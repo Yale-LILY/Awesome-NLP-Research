@@ -1,0 +1,20 @@
+FILENAME, DATE, STUDENT NAME, TOPIC
+
+09_15_2020-Linyong_Nan-Neural_Machine_Translation.pdf, 09/15/2020, Linyong Nan, Neural Machine Translation
+09_17_2020-Neha_Verma-AMR_Parsing_and_Generation.pdf, 09/17/2020, Neha Verma, AMR Parsing and Generation
+09_22_2020-Pranav_Krishna-Lexical_and_Syntactic_Bertology.pptx, 09/22/2020, Pranav Krishna, Lexical and Syntactic Bertology
+09_24_2020-Aarohi_Srivastava-Semantic_Parsing.pptx, 09/24/2020, Aarohi Srivastava, Semantic Parsing
+09_29_2020-Sally_Ma-Survey_Generation.pdf, 09/29/2020, Sally Ma, Survey Generation
+10_01_2020-Vanessa_Yan-Knowledge_and_Commonsense_in_Language_Models.pdf, 10/01/2020, Vanessa Yan, Knowledge and Commonsense in Language Models
+10_06_2020-Irene_Li-Graph_Convolution_Networks.pdf, 10/06/2020, Irene Li, Graph Convolution Networks
+10_08_2020-Murori_Mutuma-NeuroSymbolic_Systems_for_NLP.pptx, 10/08/2020, Murori Mutuma, Neuro-Symbolic Systems for NLP
+10_13_2020-Borui_Wang-Language_Grounding.pdf, 10/13/2020, Borui Wang, Language Grounding
+10_15_2020-Ansong_Ni-Reading_Comprehension_and_QA.pdf, 10/15/2020, Ansong Ni, Reading Comprehension and QA
+10_20_2020-Alex_Fabbri-Text_Summarization.pptx, 10/20/2020, Alex Fabbri, Text Summarization
+10_22_2020-Nathan_Tsoi-Deep_Reinforcement_Learning.pptx, 10/22/2020, Nathan Tsoi, Deep Reinforcement Learning
+10_27_2020-Sam_Fereidooni-Cognitive_Neuroscience_and_NLP.pptx, 10/27/2020, Sam Fereidooni, Cognitive Neuroscience and NLP
+10_29_2020-Nicholas_Georgiou-NLP_for_Robotics.pptx, 10/29/2020, Nicholas Georgiou, NLP for Robotics
+11_03_2020-Tao_Yu-Natural_Language_Interfaces.pdf, 11/03/2020, Tao Yu, Natural Language Interfaces
+11_05_2020-Tony_Wong-NLP_for_Electronic_Health_Records.pptx, 11/05/2020, Tony Wong, NLP for Electronic Health Records
+11_10_2020-Antonio_Fonseca-Neuroscience_and_NLP.pptx, 11/10/2020, Antonio Fonseca, Neuroscience and NLP
+11_12_2020-Tianxiao_Li-Knowledge_Graph_Embedding.pptx , 11/12/2020, Tianxiao Li, Knowledge Graph Embedding
